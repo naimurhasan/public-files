@@ -22,3 +22,4 @@
 - add origin
 - push code to github from git
 - change origin
+- idea of contribute
