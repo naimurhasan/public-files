@@ -5,10 +5,10 @@
 - git status
 
 # Add file
-- git add <file_name>
 > add specific file
-- git add -A
+- git add <file_name>
 > add all files of a dir
+- git add -A
 
 # Commit Changes
 - git commit -m "Added new a new feature"
