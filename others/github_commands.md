@@ -25,8 +25,10 @@
 > Or get back with a new branch
 - git checkout -b old-state 0d1d7fc32
 
+## View Changes
+- git diff
+
 ## Will add more note to
-- check line by line changes in command line
 - login to github
 - logout from github
 - add origin
