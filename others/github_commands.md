@@ -12,3 +12,13 @@
 
 # Commit Changes
 - git commit -m "Added new a new feature"
+
+## will add more note to
+- check commits list
+- get back to a commit point
+- check line by line changes in command line
+- login to github
+- logout from github
+- add origin
+- push code to github from git
+- change origin
