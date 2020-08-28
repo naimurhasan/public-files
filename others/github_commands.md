@@ -2,7 +2,7 @@
 - git init
 
 # Check Status
-- git ststus
+- git status
 
 # Add file
 - git add <file_name>
