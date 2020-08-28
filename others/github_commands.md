@@ -9,3 +9,6 @@
 > add specific file
 - git add -A
 > add all files of a dir
+
+# Commit Changes
+- git commit -m "Added new a new feature"
