@@ -13,8 +13,14 @@
 # Commit Changes
 - git commit -m "Added new a new feature"
 
+# Check commits list
+> Clean View
+- git reflog
+> For details View
+- git log --reflog
+
 ## will add more note to
-- check commits list
+
 - get back to a commit point
 - check line by line changes in command line
 - login to github
