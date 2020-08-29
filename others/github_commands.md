@@ -22,6 +22,7 @@
 ## Get back to a commit point
 > Example git checkout 745e671
 - git checkout <commit_id>
+- git checkout <commit_id> /*
 > Or get back with a new branch
 - git checkout -b old-state 0d1d7fc32
 
