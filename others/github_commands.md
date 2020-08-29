@@ -33,7 +33,10 @@
 ## Will add more note to
 - login to github
 - logout from github
+> git remote add origin https://github.com/naimurhasan/folder-to-category-link-wp-pluign.git
 - add origin
+> git push -u origin master
 - push code to github from git
+
 - change origin
 - idea of contribute
