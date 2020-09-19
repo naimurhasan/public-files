@@ -1,5 +1,6 @@
 // original from: http://mashe.hawksey.info/2014/07/google-sheets-as-a-database-insert-with-apps-script-using-postget-methods-with-ajax-example/
 // original gist: https://gist.github.com/willpatera/ee41ae374d3c9839c2d6 
+// tutorial link: https://medium.com/@dmccoy/how-to-submit-an-html-form-to-google-sheets-without-google-forms-b833952cc175
 
 function doGet(e){
   return handleResponse(e);
